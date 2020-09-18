@@ -1,6 +1,4 @@
-Project :- Movie Review In PHP
-
-
+Academic Project :- Movie Review In PHP
 
 index.php is the starting file 
 
